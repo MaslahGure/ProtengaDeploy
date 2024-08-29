@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1bbdf252.css",
-    "main.js": "/static/js/main.d611992a.js",
+    "main.js": "/static/js/main.a2333e4d.js",
     "static/js/206.bf51703e.chunk.js": "/static/js/206.bf51703e.chunk.js",
     "static/media/moto.jpg": "/static/media/moto.9bb2a2c1073ed54bebad.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.1bbdf252.css",
-    "static/js/main.d611992a.js"
+    "static/js/main.a2333e4d.js"
   ]
 }
